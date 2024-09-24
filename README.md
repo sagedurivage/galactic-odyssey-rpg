@@ -2,7 +2,7 @@
 # `Galactic Odyssey` *- GO*
 
 *A Terminal-Based Role-Playing Game created by:* 
-[Vincent Nguyen](https://github.com/Spudtle), [Mason Lam](https://github.com/masonlam154), [Sage DuRivage](https://github.com/sduri001), [Haoming Shi](https://github.com/BillyBiano)
+[Vincent Nguyen](https://github.com/Spudtle), [Mason Lam](https://github.com/masonlam154), [Sage DuRivage](https://github.com/sagedurivage), [Haoming Shi](https://github.com/BillyBiano)
 
 ## Project Description
 
