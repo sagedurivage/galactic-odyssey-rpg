@@ -186,5 +186,3 @@ An illustration of how users will navigate from one screen to another, depending
 
 </details>
 
-[![CI](https://github.com/cs100/final-project-vnguy397-mlam059-sduri001/actions/workflows/main.yaml/badge.svg?branch=master)](https://github.com/cs100/final-project-vnguy397-mlam059-sduri001/actions/workflows/main.yaml)
-
