@@ -186,4 +186,5 @@ An illustration of how users will navigate from one screen to another, depending
 
 </details>
 
-<small>Repoository salvaged from auto-delete by owner institution (private); duplicated here for documentation</small>
+
+###### *Private repoository salvaged from auto-delete by owner institution; duplicate maintained here for legacy*
